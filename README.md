@@ -26,3 +26,13 @@ Applications
 - Smart home automation
 - Agricultural equipment protection
 - Weather-responsive outdoor structures
+
+Technologies Used
+- Arduino IDE
+- Embedded C
+- Arduino Uno
+
+Future Enhancement
+- IoT-based remote monitoring
+- Weather prediction integration
+- Mobile application control
